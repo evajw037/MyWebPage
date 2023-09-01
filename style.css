@@ -1,0 +1,21 @@
+body 
+{
+	front-family: Arial;
+	background-color: #BEE7FF
+}
+
+.content 
+{
+	background: #0484CF;
+	width: 300px;
+	padding: 40px;
+	position: absolute;
+	top:50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	color: white;
+}
+
+h1{
+	padding-top: 100px
+}
